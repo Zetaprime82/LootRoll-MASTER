@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: LootRoll
+## Author: Cybertron and Hatsjoe
+## Notes: An addon that can be used to perform LootRolls
+## Version: 1.0.0
+## SavedVariables: 
+
+
+
