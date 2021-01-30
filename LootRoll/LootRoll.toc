@@ -3,7 +3,13 @@
 ## Author: Cybertron and Hatsjoe
 ## Notes: An addon that can be used to perform LootRolls
 ## Version: 1.0.0
-## SavedVariables: 
+## SavedVariables: LootRoll_DB,LootRoll_DBPC
+## SavedVariablesPerCharacter: LR_Accept_All_Rolls,LR_Track_Unannounced_Rolls,LR_Roll_Tracking_Enabled,LR_AllowExtraRolls,LR_Show_Ranks,LR_RankPriority,LR_ExtraWidth,LR_ShowGroupNumber,LR_RollFrameHeight
+## DefaultState: enabled
+
+Embeds.xml
+
+Core.lua 
 
 
 
